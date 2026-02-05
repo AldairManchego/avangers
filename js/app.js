@@ -1,0 +1,1 @@
+console.log('Hola a todos iniciando la aplicación JavaScript');
